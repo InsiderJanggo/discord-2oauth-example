@@ -1,0 +1,24 @@
+{
+  "name": "discord-2oauth-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InsiderJanggo/discord-2oauth-example.git"
+  },
+  "author": "InsiderJanggo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InsiderJanggo/discord-2oauth-example/issues"
+  },
+  "homepage": "https://github.com/InsiderJanggo/discord-2oauth-example#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  }
+}
