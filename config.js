@@ -1,4 +1,7 @@
 module.exports = {
     CLIENT_SECRET: "",
-    CLIENT_ID: ""
+    CLIENT_ID:"",
+    AUTH_CODE: "",
+    REDIRECT_LINK: "",
+    SCOPE: ""
 }
